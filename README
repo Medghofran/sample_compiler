@@ -1,0 +1,14 @@
+compile the project 
+make main 
+
+compile the lexical analysis section
+make lexer.yy.c
+
+compile the syntaxic analysis section
+make parser.tab.c parser.tab.h
+
+compile the semantic analysis section
+make obj/SymbolTable.o
+
+test the compiler
+make test

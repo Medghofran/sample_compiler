@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ast.h": "c",
+        "string.h": "c",
+        "symboltable.h": "c"
+    }
+}
